@@ -70,6 +70,12 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 1. Run `pnpm dev` to ensure everything is working correctly.
 </details>
 
+GitHub Repository Link for Admin Dashboard:
+
+Yeh GitHub repository Shopify API ke saath integrate ki gayi website ke admin dashboard ka code hai. Shopify ka admin dashboard ka code directly share nahi kiya ja sakta, lekin maine apni website ko Shopify API ke zariye integrate kiya hai, jisse aap apne Shopify store ke products, orders aur customer data ko manage kar sakte hain.
+
+Is repository mein Shopify API ke through data ko handle karne ka code diya gaya hai.
+
 ## Vercel, Next.js Commerce, and Shopify Integration Guide
 
 You can use this comprehensive [integration guide](https://vercel.com/docs/integrations/ecommerce/shopify) with step-by-step instructions on how to configure Shopify as a headless CMS using Next.js Commerce as your headless Shopify storefront on Vercel.
